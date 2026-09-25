@@ -1,6 +1,5 @@
 <div align="center">
-
-![logo](./docs/assets/head.png)
+<img src="./docs/assets/head.png" alt="logo" width=64>
 
 ## Deswatts Documents
 
