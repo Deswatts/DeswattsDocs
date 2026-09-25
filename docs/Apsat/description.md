@@ -15,5 +15,5 @@ Apsat 是一款用于保存 Minecraft 玩家 (包括 Microsoft账户 与 第三�
 > 
 > <div align="center">
 >     <p>运行于 Windows10 19045.7663</p>
->     <img src="./assets/example_gui.png" alt='GUI图片'>
+>     <img src="https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat/assets/example_gui.png" alt='GUI图片'>
 > </div>

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![第一步](./assets/usage/microsoft/step1.png)](./assets/usage/microsoft/step1.png)
+[![第一步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step1.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step1.png)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![第二步](./assets/usage/microsoft/step2.png)](./assets/usage/microsoft/step2.png)
+[![第二步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step2.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step2.png)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![第三步](./assets/usage/microsoft/step3.png)](./assets/usage/microsoft/step3.png)
+[![第三步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step3.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step3.png)
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![第四步](./assets/usage/microsoft/step4.png)](./assets/usage/microsoft/step4.png)
+[![第四步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step4.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step4.png)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![第一步](./assets/usage/yggdrasil/step1.png)](./assets/usage/yggdrasil/step1.png)
+[![第一步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step1.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step1.png)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![第二步](./assets/usage/yggdrasil/step2.png)](./assets/usage/yggdrasil/step2.png)
+[![第二步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step2.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step2.png)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![第三步](./assets/usage/yggdrasil/step3.png)](./assets/usage/yggdrasil/step3.png)
+[![第三步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step3.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step3.png)
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![第四步](./assets/usage/yggdrasil/step4.png)](./assets/usage/yggdrasil/step4.png)
+[![第四步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step4.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step4.png)
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![第五步](./assets/usage/yggdrasil/step5.png)](./assets/usage/yggdrasil/step5.png)
+[![第五步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step5.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step5.png)
 
 </div>
 
@@ -99,4 +99,6 @@
 ## 注解
 
 ### ALI
-API 地址指示（API Location Indication，简称 ALI）是一个 HTTP 响应头字段 `X-Authlib-Injector-API-Location`，起到服务发现的作用。ALI 的值为相对 URL 或绝对 URL，它指向与当前页面相关联的 Yggdrasil API。
+API 地址指示（API Location Indication，简称 ALI）是一个 HTTP 响应头字段 `X-Authlib-Injector-API-Location`，起到服务发现的作用。ALI 的值为相对 URL 或绝对 URL，它指向与当前页面相关联的 Yggdrasil API。 
+
+(该注解来自 [authlib-injector 的官方文档](https://yushijinhun.github.io/authlib-injector/zh/Yggdrasil-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83.html#api-%E5%9C%B0%E5%9D%80%E6%8C%87%E7%A4%BAali) 的其中一个片段, 并未删改, 原文使用 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) 协议许可)
