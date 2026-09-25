@@ -3,13 +3,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Deswatts 帮助",
   description: "Deswatts 帮助",
-  head: [['link', { rel: 'icon', href: 'https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/assets/head.png' }]],
+  head: [['link', { rel: 'icon', href: '/DeswattsDocs/assets/head.Be9O2umb.png' }]],
   lang: 'zh',
   base: '/DeswattsDocs',
   cleanUrls: true,
 
   themeConfig: {
-    logo: 'https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/assets/head.png',
+    logo: '/assets/head.Be9O2umb.png',
     nav: [
       { text: '首页', link: '/' },
       { text: 'Apsat帮助', link: '/Apsat'},

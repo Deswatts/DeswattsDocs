@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Release图片](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/release.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/release.png)
+[![Release图片](../assets/release.png)]
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![下载安装器图片](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/download_installer.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/download_installer.png)
+[![下载安装器图片](../assets/download_installer.png)]
 
 </div>
 

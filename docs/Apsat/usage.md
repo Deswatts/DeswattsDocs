@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![第一步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step1.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step1.png)
+[![第一步](./assets/usage/microsoft/step1.png)]
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![第二步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step2.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step2.png)
+[![第二步](./assets/usage/microsoft/step2.png)]
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![第三步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step3.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step3.png)
+[![第三步](./assets/usage/microsoft/step3.png)]
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![第四步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step4.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/microsoft/step4.png)
+[![第四步](./assets/usage/microsoft/step4.png)]
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![第一步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step1.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step1.png)
+[![第一步](./assets/usage/yggdrasil/step1.png)]
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![第二步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step2.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step2.png)
+[![第二步](./assets/usage/yggdrasil/step2.png)]
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![第三步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step3.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step3.png)
+[![第三步](./assets/usage/yggdrasil/step3.png)]
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![第四步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step4.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step4.png)
+[![第四步](./assets/usage/yggdrasil/step4.png)]
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![第五步](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step5.png)](https://raw.githubusercontent.com/Deswatts/DeswattsDocs/refs/heads/main/docs/Apsat//assets/usage/yggdrasil/step5.png)
+[![第五步](./assets/usage/yggdrasil/step5.png)]
 
 </div>
 
