@@ -3,9 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Deswatts 帮助",
   description: "Deswatts 帮助",
-  head: [['link', { rel: 'icon', href: '/docs/assets/head.png' }]],
+  head: [['link', { rel: 'icon', href: '/DeswattsDocs/assets/head.png' }]],
   lang: 'zh',
-  base: '/docs',
+  base: '/DeswattsDocs',
   cleanUrls: true,
 
   themeConfig: {
