@@ -14,7 +14,9 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: 'Apsat帮助', link: '/Apsat'},
     ],
-
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/Deswatts/DeswattsDocs/' },
+    ],
     sidebar: [
       {
         text: 'Apsat',
